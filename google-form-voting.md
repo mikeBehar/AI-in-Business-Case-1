@@ -37,11 +37,11 @@ You are voting as a member of Liberty Regional Bank's Board of Directors on how 
 **Question**: How do you vote on LendSmart™ deployment?
 
 **Options**:
-- ⭕ **Option 1**: Deploy as-is - Accept vendor's current system (maximum financial benefit: +$1.6M Year 1)
-- ⭕ **Option 2**: Deploy with fairness constraints - Require vendor model retraining (slightly reduced savings: +$1.4M Year 1)
-- ⭕ **Option 3**: Deploy with monitoring + community investment - Marketing's hybrid approach (+$1.1M Year 1 after community program costs)
-- ⭕ **Option 4**: Delay 6 months - Independent audit and model fixes before deployment (+$600K Year 1, 6 months of lost opportunity)
-- ⭕ **Option 5**: Reject AI solution - Continue human-only processing, invest in loan officer training (-$300K Year 1)
+- ⭕ **Option 1**: Deploy LendSmart™ As-Is - Accept vendor's current system (maximum financial benefit: +$1.6M Year 1)
+- ⭕ **Option 2**: Deploy with Fairness Constraints - Require vendor model retraining (slightly reduced savings: +$1.4M Year 1)
+- ⭕ **Option 3**: Delay 6 Months for Independent Audit & Fix - Audit and model fixes before deployment (+$600K Year 1, 6 months of lost opportunity)
+- ⭕ **Option 4**: Reject AI Solution, Invest in Human Training - Continue human-only processing, invest in loan officer training (-$300K Year 1)
+- ⭕ **Option 5**: Deploy + Community Investment (Marketing's Proposal) - Deploy with monitoring + community investment program (+$1.1M Year 1 after community program costs)
 
 ---
 
