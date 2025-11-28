@@ -113,12 +113,11 @@ You will have 2-3 minutes during the board meeting to advocate for your position
 **Part A - Your Vote**: 
 
 State clearly which option you are voting for:
-- [ ] Option 1: Deploy as-is
-- [ ] Option 2: Deploy with fairness constraints  
-- [ ] Option 3: Deploy with monitoring + community investment
-- [ ] Option 4: Delay 6 months for audit and fixes
-- [ ] Option 5: Reject AI solution, invest in human training
-
+-[ ] Option 1: Deploy LendSmart™ As-Is
+-[ ] Option 2: Deploy with Fairness Constraints
+-[ ] Option 3: Delay 6 Months for Independent Audit & Fix
+-[ ] Option 4: Reject AI Solution, Invest in Human Training
+-[ ] Option 5: Deploy + Community Investment (Marketing's Proposal)
 **Part B - Your Core Argument**:
 
 In 150-200 words, articulate the strongest case for your position. Imagine you're making your opening statement to fellow board members. Your argument should:
