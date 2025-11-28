@@ -113,6 +113,7 @@ You will have 2-3 minutes during the board meeting to advocate for your position
 **Part A - Your Vote**: 
 
 State clearly which option you are voting for:
+
 -[ ] Option 1: Deploy LendSmart™ As-Is
 
 -[ ] Option 2: Deploy with Fairness Constraints
